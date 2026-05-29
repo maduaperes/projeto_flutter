@@ -100,7 +100,7 @@ projeto_flutter/
 Clone o repositório:
 
 ```bash id="xqjlwm"
-git clone https://github.com/seu-usuario/projeto_flutter.git
+git clone https://github.com/maduaperes/projeto_flutter.git
 ```
 
 Acesse a pasta do projeto:
@@ -147,7 +147,7 @@ pubspec.yaml
 
 # Autor
 
-Projeto desenvolvido para estudos e aprendizado em Flutter.
+Projeto desenvolvido por Madu Peres para estudos e aprendizado em Flutter.
 
 ---
 
