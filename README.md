@@ -1,16 +1,156 @@
-# projeto_flutter
+# ProjetoFlutter
 
-A new Flutter project.
+O ProjetoFlutter é uma aplicação desenvolvida com Flutter com suporte multiplataforma, permitindo execução em dispositivos Android, iOS, Web, Windows, Linux e macOS.
 
-## Getting Started
+O projeto foi criado com foco em aprendizado e desenvolvimento de aplicações modernas utilizando Flutter e Dart.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# Objetivo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+O projeto tem como objetivo praticar o desenvolvimento mobile e multiplataforma utilizando Flutter, explorando:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Criação de interfaces modernas;
+- Estruturação de projetos Flutter;
+- Compatibilidade entre plataformas;
+- Organização de componentes e recursos;
+- Desenvolvimento cross-platform.
+
+---
+
+# Tecnologias Utilizadas
+
+- Flutter
+- Dart
+- Kotlin
+- Swift
+- Gradle
+
+---
+
+# Plataformas Suportadas
+
+- Android
+- iOS
+- Web
+- Windows
+- Linux
+- macOS
+
+---
+
+# Funcionalidades
+
+## Aplicação Flutter
+- Estrutura multiplataforma;
+- Gerenciamento de widgets;
+- Navegação entre telas;
+- Compatibilidade com dispositivos móveis e desktop.
+
+## Interface
+- Layout adaptável;
+- Estrutura organizada;
+- Preparado para expansão de funcionalidades.
+
+## Desenvolvimento
+- Configuração nativa Android e iOS;
+- Suporte para execução Web;
+- Estrutura modular Flutter.
+
+---
+
+# Estrutura do Projeto
+
+```bash
+projeto_flutter/
+│
+├── android/
+├── ios/
+├── linux/
+├── macos/
+├── windows/
+├── web/
+│
+├── lib/
+│   └── main.dart
+│
+├── test/
+│   └── widget_test.dart
+│
+├── pubspec.yaml
+├── pubspec.lock
+├── analysis_options.yaml
+└── README.md
+````
+
+---
+
+# Como Executar o Projeto
+
+## Pré-requisitos
+
+* Flutter SDK instalado;
+* Android Studio ou VS Code;
+* Emulador Android/iOS ou dispositivo físico.
+
+---
+
+# Instalação
+
+Clone o repositório:
+
+```bash id="xqjlwm"
+git clone https://github.com/seu-usuario/projeto_flutter.git
+```
+
+Acesse a pasta do projeto:
+
+```bash id="1jivdq"
+cd projeto_flutter
+```
+
+Instale as dependências:
+
+```bash id="2o63ez"
+flutter pub get
+```
+
+Execute o projeto:
+
+```bash id="5gcl0k"
+flutter run
+```
+
+---
+
+# Dependências
+
+As dependências utilizadas no projeto estão definidas no arquivo:
+
+```bash id="f9vg65"
+pubspec.yaml
+```
+
+---
+
+# Melhorias Futuras
+
+* Integração com APIs;
+* Sistema de autenticação;
+* Banco de dados local;
+* Dark mode;
+* Notificações;
+* Melhorias na interface;
+* Gerenciamento de estado avançado.
+
+---
+
+# Autor
+
+Projeto desenvolvido para estudos e aprendizado em Flutter.
+
+---
+
+# Licença
+
+Este projeto está disponível para fins educacionais e aprendizado.
